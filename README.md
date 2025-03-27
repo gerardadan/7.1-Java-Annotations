@@ -1,4 +1,3 @@
-```markdown
 # Readme for Exercise: Hierarchy of Worker Classes
 
 ## 📄 Description
